@@ -16,11 +16,11 @@
 
 ### Time Taken :
 
-- 5 hours
+- 6 hours
 
 ### Live Link :
 
-[**Click Here**](https://plant-home-page-pi.vercel.app/)
+[**Click Here**](https://product-homepage-six.vercel.app/)
 
 ### Output :
 
